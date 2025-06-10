@@ -12,4 +12,7 @@ tags: []
 2. Enter the gallons of water you are mixing and your desired salinity. 
 3. I have been using 3 gallons of water to make 60ppt salt water
 4. Weigh out the correct amount of salt with scale.
-5. ![Pump Picture]()
+5. ![Pump Picture](https://github.com/Thatcher513/TJW_Lab_Notebook/blob/master/images/IMG_5628.jpg)
+6. Use a small pump to mix water together.
+![Mixing Picture](https://github.com/Thatcher513/TJW_Lab_Notebook/blob/master/images/IMG_5629.jpg)
+7. mix for 12 hours adding salt if needed.
