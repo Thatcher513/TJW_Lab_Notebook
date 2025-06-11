@@ -5,6 +5,7 @@ date: '2025-06-10'
 categories: Methods
 tags: []
 ---
+All of the setup is in a Thermo Scientific incubator set to 25 degrees celsius
 1. We used a organizing tray with 36 cells. Each cell has a height of 2.5cm a width of 3cm and a length of 4cm.
 -Should have enough space to hold 23ml of water.
 2. I used 2 trays and used only the 4 front facing cells from each tray. For a total of 8 test chambers.
