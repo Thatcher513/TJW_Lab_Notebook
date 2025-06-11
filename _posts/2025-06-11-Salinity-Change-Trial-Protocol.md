@@ -17,4 +17,5 @@ tags: []
 7. Wait for first 1ml dose. 15minutes after the dose check the salinity of every chamber.
 Make sure air pump is turned off before checking the salinity. 
 8. Let Run for 24 hours checking salinity of every chamber every hour.
-9. Enter hourly measurements into a .CSV file and run a linear regression for each chamber.
+9. Rinse salinity probe end with DI water between measurements dry it with a KimWipe.
+10. Enter hourly measurements into a .CSV file and run a linear regression for each chamber.
