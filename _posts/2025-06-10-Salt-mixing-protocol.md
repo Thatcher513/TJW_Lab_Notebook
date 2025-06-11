@@ -2,7 +2,7 @@
 layout: post
 title: Salt Mixing Protocol 
 date: '2025-06-10'
-categories: Salinity
+categories: Protocol
 tags: []
 ---
 
